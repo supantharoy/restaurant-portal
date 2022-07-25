@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Damn",
+    "address": "Damn",
+    "cuisine": "Damn",
+    "website": "https://www.google.com",
+    "description": "Nice one ",
+    "id": "87764597-85c7-43e2-89b5-62fa1b133ca0"
+  },
+  {
+    "name": "Lol",
+    "address": "Random",
+    "cuisine": "Chinese",
+    "website": "https://ww.rest.com",
+    "description": "Nice",
+    "id": "4bd50aa6-3746-409e-8710-8624611ffa6b"
+  },
+  {
+    "id": "r3",
+    "name": "Restaurant 3",
+    "address": "Awesomestreet 5, Mycity",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing! Of course!"
+  },
+  {
+    "name": "Supantha Roy",
+    "address": "Dutch",
+    "cuisine": "Lol",
+    "website": "https://www.none.com",
+    "description": "Never",
+    "id": "6fcd511f-7d4d-4f85-b9ad-4325a205a153"
+  },
+  {
+    "id": "r1",
+    "name": "Test",
+    "address": "Teststreet 5, Testcity",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "It's awesome!"
+  },
+  {
+    "id": "r2",
+    "name": "Test 2",
+    "address": "Teststreet 10, Testcity 2",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!"
+  },
+  {
+    "name": "Briofit Cafe",
+    "address": "Dehradun",
+    "cuisine": "Healthy",
+    "website": "https://www.briofit.in",
+    "description": "Healthy food",
+    "id": "0dd72189-b13e-4060-8351-8e265865ea00"
+  }
+]
